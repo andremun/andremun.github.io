@@ -1,8 +1,8 @@
 ---
 title: "Exploratory landscape analysis of continuous space optimization problems using information content"
 collection: publications
-permalink: /publication/Munoz15a
-date: 2015
+permalink: /publication/2015-02-01-Exploratory-landscape-analysis-of-continuous-space-optimization-problems-using-information-content.md
+date: 2015-02-01
 venue: 'IEEE Transactions on Evolutionary Computation'
 volume: 19
 number: 1
