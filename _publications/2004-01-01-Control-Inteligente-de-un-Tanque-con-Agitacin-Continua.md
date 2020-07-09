@@ -1,9 +1,9 @@
 ---
-title: "Control Inteligente de un Tanque con Agitaci贸n Continua"
+title: "Control Inteligente de un Tanque con Agitaci髇 Continua"
 collection: publications
 permalink: /publication/2004-01-01-Control-Inteligente-de-un-Tanque-con-Agitacin-Continua
 date: 2004-01-01
-venue: 'In the proceedings of 11 Congreso Latinoamericano de Control Autom谩tico, X Convenci贸n Internacional y Feria Inform谩tica 2004'
-citation: ' M.A. Mu帽oz,  E. Caicedo,  J. L贸pez, "Control Inteligente de un Tanque con Agitaci贸n Continua". In the proceedings of 11 Congreso Latinoamericano de Control Autom谩tico, X Convenci贸n Internacional y Feria Inform谩tica 2004, 2004.'
+venue: 'In the proceedings of 11 Congreso Latinoamericano de Control Autom醫ico, X Convenci髇 Internacional y Feria Inform醫ica 2004'
+citation: ' M.A. Mu駉z,  E. Caicedo,  J. L髉ez, "Control Inteligente de un Tanque con Agitaci髇 Continua". In the proceedings of 11 Congreso Latinoamericano de Control Autom醫ico, X Convenci髇 Internacional y Feria Inform醫ica 2004, 2004.'
 ---
 [Access paper here](http://andremun.110mb.com/documents/Munoz04.pdf){:target="_blank"}
