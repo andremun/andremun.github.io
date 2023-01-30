@@ -7,11 +7,11 @@ redirect_from:
   - /publications
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 
 # Books
 
-[]{#CIntell2010 label="CIntell2010"} E. Caicedo, J.A. López and **M.A.
+1. E. Caicedo, J.A. López and **M.A.
 Muñoz** (2010) *Control Inteligente \| Intelligent Control*. Programa
 Editorial Universidad del Valle,
 ISBN:[978-958-670-962-0](https://isbn.cloud/en/9789586709620/control-inteligente/)
