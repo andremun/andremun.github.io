@@ -222,103 +222,103 @@ doi:[10.1109/TLA.2007.4381347](https://doi.org/10.1109/TLA.2007.4381347)
 
 # Reviewed international conference papers
 
-15. **M.A. Muñoz** (2022) *Examining
+15. **M.A. Muñoz** (2022) [*Examining
 Algorithm Behavior using Recurrence Quantification and Landscape
-Analyses*. In Proceedings of the Genetic and Evolutionary Computation
+Analyses*](https://andremun.github.io/files/Munoz22b.pdf). In Proceedings of the Genetic and Evolutionary Computation
 Conference Companion (GECCO '22), pp. 1658--1665,
 doi:[10.1145/3520304.3534029](https://doi.org/10.1145/3520304.3534029)
 
 14. D.X. Ramos, J.A. Jiménez Toledo, A.
 Muñoz del Castillo, L.C. Acosta Huertas, E. Herrera and **M.A. Muñoz**.
-*Computational Thinking for Teacher Training: A Systematic Review of
-Literature*. In Proceedings of 18th LACCEI International
+[*Computational Thinking for Teacher Training: A Systematic Review of
+Literature*](https://andremun.github.io/files/Ramos22.pdf). In Proceedings of 18th LACCEI International
 Multi-Conference for Engineering, Education, and Technology,
 doi:[10.18687/LACCEI2020.1.1.135](http://dx.doi.org/10.18687/LACCEI2020.1.1.135)
 **(In Spanish)**
 
 13. E. Yap, **M.A. Muñoz**, K.
-Smith-Miles and A. Liefooghe (2020) *Instance Space Analysis of
-Combinatorial Multi-objective Optimization Problems*. In Proceedings of
+Smith-Miles and A. Liefooghe (2020) [*Instance Space Analysis of
+Combinatorial Multi-objective Optimization Problems*](Yap20.pdf). In Proceedings of
 the 2020 IEEE Congress in Evolutionary Computation,
 doi:[10.1109/CEC48606.2020.9185664](https://doi.org/10.1109/CEC48606.2020.9185664)
 
 12. S. Kandanaarachchi, **M.A. Muñoz** and K.
-Smith-Miles (2019) *Instance space analysis for unsupervised outlier
-detection*. In Proceedings of the 1st Workshop on Evaluation and
+Smith-Miles (2019) [*Instance space analysis for unsupervised outlier
+detection*](https://andremun.github.io/files/Kandanaarachchi19.pdf). In Proceedings of the 1st Workshop on Evaluation and
 Experimental Design in Data Mining and Machine Learning, co-located with
 SIAM International Conference on Data Mining (SDM 2019), pp. 32--41
 \[Online\]
 Available:[ceur-ws.org/Vol-2436/article_4.pdf](https://ceur-ws.org/Vol-2436/article_4.pdf)
 
 11. **M.A. Muñoz** and K.A. Smith-Miles
-(2017) *Generating custom classification datasets by targeting the
-instance space*. In Proceedings of the Genetic and Evolutionary
+(2017) [*Generating custom classification datasets by targeting the
+instance space*](https://andremun.github.io/files/Munoz17b.pdf). In Proceedings of the Genetic and Evolutionary
 Computation Conference Companion (GECCO '17), pp. 1582---1588,
 doi:[10.1145/3067695.3082532](https://doi.org/10.1145/3067695.3082532)
 
 10. **M.A. Muñoz** and M. Kirley (2016)
-*ICARUS: Identification of Complementary algoRithms by Uncovered Sets*.
+[*ICARUS: Identification of Complementary algoRithms by Uncovered Sets*](https://andremun.github.io/files/Munoz16a.pdf).
 In Proceedings of the 2016 IEEE Congress in Evolutionary Computation,
 pp. 2427--2432,
 doi:[10.1109/CEC.2016.7744089](https://doi.org/10.1109/CEC.2016.7744089)
 
 9. **M.A. Muñoz** and K.A. Smith-Miles
-(2015) *Effects of function translation and dimensionality reduction on
-landscape analysis*. In Proceedings of the 2015 IEEE Congress in
+(2015) [*Effects of function translation and dimensionality reduction on
+landscape analysis*](https://andremun.github.io/files/Munoz15b.pdf). In Proceedings of the 2015 IEEE Congress in
 Evolutionary Computation, pp. 1336--1342,
 doi:[10.1109/CEC.2015.7257043](https://doi.org/10.1109/CEC.2015.7257043)
 
 8. Y. Sun, M. Kirley, S.K. Halgamuge and
-**M.A. Muñoz** (2014) *On the selection of fitness landscape analysis
-metrics for continuous optimization problems*. In Proceedings of the 7th
+**M.A. Muñoz** (2014) [*On the selection of fitness landscape analysis
+metrics for continuous optimization problems*](https://andremun.github.io/files/Sun14.pdf). In Proceedings of the 7th
 International Conference on Information and Automation for
 Sustainability,
 doi:[10.1109/ICIAFS.2014.7069635](https://doi.org/10.1109/ICIAFS.2014.7069635)
 
 7. **M.A. Muñoz**, M. Kirley and S.K.
-Halgamuge (2012) *A Meta-Learning prediction model of algorithm
-performance for continuous optimization problems*. In Proceedings of the
+Halgamuge (2012) [*A Meta-Learning prediction model of algorithm
+performance for continuous optimization problems*](https://andremun.github.io/files/Munoz12b.pdf). In Proceedings of the
 12th International Conference on Parallel Problem Solving from Nature
 (PPSN XII), Lecture Notes in Computer Science, v. 7491, pp. 226--235,
 doi:[10.1007/978-3-642-32937-1_23](https://doi.org/10.1007/978-3-642-32937-1_23)
 
 6. **M.A. Muñoz**, M. Kirley and S.K.
-Halgamuge (2012) *Landscape characterization of numerical optimization
-problems using biased scattered data*. In Proceedings of the 2012 IEEE
+Halgamuge (2012) [*Landscape characterization of numerical optimization
+problems using biased scattered data*](https://andremun.github.io/files/Munoz12a.pdf). In Proceedings of the 2012 IEEE
 Congress in Evolutionary Computation, pp. 2162--2169,
 doi:[10.1109/CEC.2012.6256490](https://doi.org/10.1109/CEC.2012.6256490)
 
 5. **M.A. Muñoz**, S.K. Halgamuge, W.
-Alfonso and E.F. Caicedo (2010) *Simplifying the Bacteria Foraging
-Algorithm*. In Proceedings of the 2010 IEEE Congress in Evolutionary
+Alfonso and E.F. Caicedo (2010) [*Simplifying the Bacteria Foraging
+Algorithm*](https://andremun.github.io/files/Munoz10.pdf). In Proceedings of the 2010 IEEE Congress in Evolutionary
 Computation, pp. 4095--4101,
 doi:[10.1109/CEC.2010.5586025](https://doi.org/10.1109/CEC.2010.5586025)
 
 4. **M.A. Muñoz**, J.A. López and E.F.
-Caicedo (2008). *Self-Adaptive Bacteria Swarm for Optimization*. In
+Caicedo (2008). [*Self-Adaptive Bacteria Swarm for Optimization*](https://andremun.github.io/files/Munoz08b.pdf). In
 Proceedings of the 2008 Electronics, Robotics and Automotive Mechanics
 Conference (CERMA '08), pp. 45--49,
 doi:[10.1109/CERMA.2008.97](https://doi.org/10.1109/CERMA.2008.97)
 
 3. **M.A. Muñoz**, J.A. López and E.F.
-Caicedo (2007) *Bacteria Swarm Foraging Optimization for Dynamical
+Caicedo (2007) [*Bacteria Swarm Foraging Optimization for Dynamical
 Resource Allocation in a Multizone Temperature Experimentation
-Platform*. In Proceedings of the 2007 International Fuzzy Systems
+Platform*](https://andremun.github.io/files/Munoz07e.pdf). In Proceedings of the 2007 International Fuzzy Systems
 Association Congress (IFSA 2007), Analysis and Design of Intelligent
 Systems using Soft Computing Techniques. Advances in Soft Computing, v.
 41, pp. 427--435,
 doi:[10.1007/978-3-540-72432-2_43](https://doi.org/10.1007/978-3-540-72432-2_43)
 
 2. **M.A. Muñoz**, J.A. López and E.F.
-Caicedo (2006) *Ant Colony Optimization for Dynamical Resource
-Allocation in a Multizone Temperature Experimentation Platform*. In
+Caicedo (2006) [*Ant Colony Optimization for Dynamical Resource
+Allocation in a Multizone Temperature Experimentation Platform*](https://andremun.github.io/files/Munoz06.pdf). In
 Proceedings of the 2006 Electronics, Robotics and Automotive Mechanics
 Conference (CERMA '06), pp. 137--142,
 doi:[10.1109/CERMA.2006.18](https://doi.org/10.1109/CERMA.2006.18).
 
 1. **M.A. Muñoz**, J.A. López and E.F.
-Caicedo (2005) *Implementation of a Distributed Control Experimentation
-Platform*. In Proceedings of the 2005 International Conference on
+Caicedo (2005) [*Implementation of a Distributed Control Experimentation
+Platform*](https://andremun.github.io/files/Munoz05.pdf). In Proceedings of the 2005 International Conference on
 Industrial Electronics and Control Applications (ICIECA 2005),
 doi:[10.1109/ICIECA.2005.1644379](https://doi.org/10.1109/ICIECA.2005.1644379)
 
@@ -327,8 +327,8 @@ doi:[10.1109/ICIECA.2005.1644379](https://doi.org/10.1109/ICIECA.2005.1644379)
 # Book Chapters
 
 1. **M.A. Muñoz**, M. Kirley and S.K.
-Halgamuge (2012) *The Algorithm Selection Problem on the Continuous
-Optimization Domain*. In: Moewes, C., Nürnberger, A. (eds) Computational
+Halgamuge (2012) [*The Algorithm Selection Problem on the Continuous
+Optimization Domain*](https://andremun.github.io/files/Munoz12c). In: Moewes, C., Nürnberger, A. (eds) Computational
 Intelligence in Intelligent Data Analysis. Studies in Computational
 Intelligence, vol 445. Springer, Berlin, Heidelberg.
 [10.1007/978-3-642-32378-2_6](https://doi.org/10.1007/978-3-642-32378-2_6)
@@ -338,22 +338,22 @@ Intelligence, vol 445. Springer, Berlin, Heidelberg.
 # Short papers
 
 3. **M.A. Muñoz**, H. Soleimani and S.
-Kandanaarachchi (2022) *Benchmarking Algorithm Portfolio Construction
-Methods*. In Proceedings of the Genetic and Evolutionary Computation
+Kandanaarachchi (2022) [*Benchmarking Algorithm Portfolio Construction
+Methods*](https://andremun.github.io/files/Munoz22c.pdf). In Proceedings of the Genetic and Evolutionary Computation
 Conference Companion (GECCO '22), pp. 499--502,
 doi:[10.1145/3520304.3528880](https://doi.org/10.1145/3520304.3528880)
 
 2. A. Muñoz del Castillo, **M.A. Muñoz**,
 L.C. Acosta Huertas, E. Herrera, J.A. Jiménez Toledo and D.X. Ramos.
-*Developing a teacher training curriculum including Computational
-Thinking skills: Early advances on a study focused on Colombia*. In
+[*Developing a teacher training curriculum including Computational
+Thinking skills: Early advances on a study focused on Colombia*](https://andremun.github.io/files/Munoz19.pdf). In
 Proceedings of 2019 XIV Latin American Conference on Learning
 Technologies (LACLO), pp. 8--11,
 doi:[10.1109/LACLO49268.2019.00012](https://doi.org/10.1109/LACLO49268.2019.00012)
 
 1. **M.A. Muñoz** and K.A. Smith-Miles.
-*Non-parametric model of the space of continuous black-box optimization
-problems*. In Proceedings of the Genetic and Evolutionary Computation
+[*Non-parametric model of the space of continuous black-box optimization
+problems*](https://andremun.github.io/files/Munoz17c.pdf). In Proceedings of the Genetic and Evolutionary Computation
 Conference Companion (GECCO '17), pp. 175--176,
 doi:[10.1145/3067695.3075971](https://doi.org/10.1145/3067695.3075971)
 
