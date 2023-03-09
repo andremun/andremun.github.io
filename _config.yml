@@ -10,7 +10,7 @@ locale                   : "en-AU"
 title                    : "Dr. Mario Andrés Muñoz"
 title_separator          : "-"
 name                     : &name "Dr. Mario Andrés Muñoz"
-description              : &description "Researcher at the School of Mathematics and Statistics, The University of Melbourne"
+description              : &description "Researcher at the School of Computer and Information Systems, The University of Melbourne"
 url                      : https://andremun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andremun.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Mario Andrés Muñoz"
   avatar           : "profile.png"
-  bio              : "Researcher at the School of Mathematics and Statistics, The University of Melbourne. "
+  bio              : "Researcher at the School of Computer and Information Systems, The University of Melbourne. "
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
