@@ -17,7 +17,7 @@ Editorial Universidad del Valle,
 ISBN:[978-958-670-962-0](https://isbn.cloud/en/9789586709620/control-inteligente/)
 **(In Spanish)**
 
-# International Journal articles
+# Journal articles
 
 30. H. Alipour, **M.A. Muñoz**, and K.
 Smith-Miles (2023) [*Enhanced Instance Space Analysis for the Maximum
@@ -220,15 +220,21 @@ doi:[10.1109/TLA.2007.4381347](https://doi.org/10.1109/TLA.2007.4381347)
 **(In Spanish, IF:0.967)**
 
 
-# Reviewed international conference papers
+# Refereed conference papers
 
-15. **M.A. Muñoz** (2022) [*Examining
+18. **M.A. Muñoz** (2022) [*Examining
 Algorithm Behavior using Recurrence Quantification and Landscape
 Analyses*](https://andremun.github.io/files/Munoz22b.pdf). In Proceedings of the Genetic and Evolutionary Computation
 Conference Companion (GECCO '22), pp. 1658--1665,
 doi:[10.1145/3520304.3534029](https://doi.org/10.1145/3520304.3534029)
 
-14. D.X. Ramos, J.A. Jiménez Toledo, A.
+17. **M.A. Muñoz**, H. Soleimani and S.
+Kandanaarachchi (2022) [*Benchmarking Algorithm Portfolio Construction
+Methods*](https://andremun.github.io/files/Munoz22c.pdf). In Proceedings of the Genetic and Evolutionary Computation
+Conference Companion (GECCO '22), pp. 499--502,
+doi:[10.1145/3520304.3528880](https://doi.org/10.1145/3520304.3528880)
+
+16. D.X. Ramos, J.A. Jiménez Toledo, A.
 Muñoz del Castillo, L.C. Acosta Huertas, E. Herrera and **M.A. Muñoz**.
 [*Computational Thinking for Teacher Training: A Systematic Review of
 Literature*](https://andremun.github.io/files/Ramos22.pdf). In Proceedings of 18th LACCEI International
@@ -236,19 +242,33 @@ Multi-Conference for Engineering, Education, and Technology,
 doi:[10.18687/LACCEI2020.1.1.135](http://dx.doi.org/10.18687/LACCEI2020.1.1.135)
 **(In Spanish)**
 
-13. E. Yap, **M.A. Muñoz**, K.
+15. E. Yap, **M.A. Muñoz**, K.
 Smith-Miles and A. Liefooghe (2020) [*Instance Space Analysis of
 Combinatorial Multi-objective Optimization Problems*](Yap20.pdf). In Proceedings of
 the 2020 IEEE Congress in Evolutionary Computation,
 doi:[10.1109/CEC48606.2020.9185664](https://doi.org/10.1109/CEC48606.2020.9185664)
 
-12. S. Kandanaarachchi, **M.A. Muñoz** and K.
+14. A. Muñoz del Castillo, **M.A. Muñoz**,
+L.C. Acosta Huertas, E. Herrera, J.A. Jiménez Toledo and D.X. Ramos. (2019)
+[*Developing a teacher training curriculum including Computational
+Thinking skills: Early advances on a study focused on Colombia*](https://andremun.github.io/files/Munoz19.pdf). In
+Proceedings of 2019 XIV Latin American Conference on Learning
+Technologies (LACLO), pp. 8--11,
+doi:[10.1109/LACLO49268.2019.00012](https://doi.org/10.1109/LACLO49268.2019.00012)
+
+13. S. Kandanaarachchi, **M.A. Muñoz** and K.
 Smith-Miles (2019) [*Instance space analysis for unsupervised outlier
 detection*](https://andremun.github.io/files/Kandanaarachchi19.pdf). In Proceedings of the 1st Workshop on Evaluation and
 Experimental Design in Data Mining and Machine Learning, co-located with
 SIAM International Conference on Data Mining (SDM 2019), pp. 32--41
 \[Online\]
 Available:[ceur-ws.org/Vol-2436/article_4.pdf](https://ceur-ws.org/Vol-2436/article_4.pdf)
+
+12. **M.A. Muñoz** and K.A. Smith-Miles. (2017)
+[*Non-parametric model of the space of continuous black-box optimization
+problems*](https://andremun.github.io/files/Munoz17c.pdf). In Proceedings of the Genetic and Evolutionary Computation
+Conference Companion (GECCO '17), pp. 175--176,
+doi:[10.1145/3067695.3075971](https://doi.org/10.1145/3067695.3075971)
 
 11. **M.A. Muñoz** and K.A. Smith-Miles
 (2017) [*Generating custom classification datasets by targeting the
@@ -333,32 +353,6 @@ Intelligence in Intelligent Data Analysis. Studies in Computational
 Intelligence, vol 445. Springer, Berlin, Heidelberg.
 [10.1007/978-3-642-32378-2_6](https://doi.org/10.1007/978-3-642-32378-2_6)
 
-
-
-# Short papers
-
-3. **M.A. Muñoz**, H. Soleimani and S.
-Kandanaarachchi (2022) [*Benchmarking Algorithm Portfolio Construction
-Methods*](https://andremun.github.io/files/Munoz22c.pdf). In Proceedings of the Genetic and Evolutionary Computation
-Conference Companion (GECCO '22), pp. 499--502,
-doi:[10.1145/3520304.3528880](https://doi.org/10.1145/3520304.3528880)
-
-2. A. Muñoz del Castillo, **M.A. Muñoz**,
-L.C. Acosta Huertas, E. Herrera, J.A. Jiménez Toledo and D.X. Ramos.
-[*Developing a teacher training curriculum including Computational
-Thinking skills: Early advances on a study focused on Colombia*](https://andremun.github.io/files/Munoz19.pdf). In
-Proceedings of 2019 XIV Latin American Conference on Learning
-Technologies (LACLO), pp. 8--11,
-doi:[10.1109/LACLO49268.2019.00012](https://doi.org/10.1109/LACLO49268.2019.00012)
-
-1. **M.A. Muñoz** and K.A. Smith-Miles.
-[*Non-parametric model of the space of continuous black-box optimization
-problems*](https://andremun.github.io/files/Munoz17c.pdf). In Proceedings of the Genetic and Evolutionary Computation
-Conference Companion (GECCO '17), pp. 175--176,
-doi:[10.1145/3067695.3075971](https://doi.org/10.1145/3067695.3075971)
-
-
-
 # Work under review
 
 1. H. Alipour, **M.A. Muñoz**, and K.
@@ -375,7 +369,7 @@ doi:[10.2139/ssrn.4251160](http://dx.doi.org/10.2139/ssrn.4251160)
 Smith-Miles. *Instance Space Analysis: A toolkit for the assessment of
 algorithmic power*. Available at
 GitHub:[andremun/InstanceSpace](https://github.com/andremun/InstanceSpace)
-**\[A-3-up5, SO-4, SM-3, EM-3-up4, SDL-4, DA-4, CD-4, MS-4\]**
+
 
 
 {% include base_path %}
