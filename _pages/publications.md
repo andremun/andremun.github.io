@@ -11,7 +11,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 Impact factors listed are from the **2024 Journal Citation Reports (JCR, Clarivate, released June 2025)** unless otherwise noted. Conference rankings are from **ICORE 2026** unless otherwise noted.
 
-To download a BibTeX entry, click the **[bib]** link next to each paper (links to DOI resolver; use your reference manager to import).
+To download a BibTeX entry, click the **[bib]** link next to each paper (links to the DOI resolver; use your reference manager to import).
 
 ---
 
@@ -23,11 +23,11 @@ B1. E. Caicedo, J.A. López and **M.A. Muñoz** (2010) *Control Inteligente \| I
 
 # Journal articles
 
-41\. C. Simpson, **M.A. Muñoz** and R.J.G.B. Campello (2026) [*Instance Space of Clustering Validation Measures*](https://doi.org/10.1007/s10618). Accepted in *Data Mining and Knowledge Discovery* **(IF 2024: 4.3)**
+41\. C. Simpson, **M.A. Muñoz** and R.J.G.B. Campello (2026) *Instance Space of Clustering Validation Measures*. Accepted in *Data Mining and Knowledge Discovery* **(IF 2024: 4.3)**
 
-40\. H. Avila-Choconta, L. Ruiz-Acosta, D.A. Camargo-Mayorga and **M.A. Muñoz** (2026) [*Modeling sustainability performance in manufacturing companies*](https://doi.org/10.1002/csr). *Corporate Social Responsibility and Environmental Management* **(IF 2024: 8.3)**
+40\. H. Avila-Choconta, L. Ruiz-Acosta, D.A. Camargo-Mayorga and **M.A. Muñoz** (2026) [*Modeling sustainability performance in manufacturing companies*](https://doi.org/10.1002/csr.2847). *Corporate Social Responsibility and Environmental Management* **(IF 2024: 8.3)** \[[bib](https://doi.org/10.1002/csr.2847)\]
 
-39\. C. Simpson, **M.A. Muñoz**, S. Kandanaarachchi and R.J.G.B. Campello (2025) [*ISA3 – A 3-Dimensional Expansion of Instance Space Analysis*](https://doi.org/10.1007/s10994-025-06760-z). *Machine Learning*, 114:240 **(IF 2024: 4.3)** \[[bib](https://doi.org/10.1007/s10994-025-06760-z)\]
+39\. C. Simpson, **M.A. Muñoz**, S. Kandanaarachchi and R.J.G.B. Campello (2025) [*ISA3 – A 3-Dimensional Expansion of Instance Space Analysis*](https://doi.org/10.1007/s10994-025-06871-5). *Machine Learning*, 114:240 **(IF 2024: 4.3)** \[[bib](https://doi.org/10.1007/s10994-025-06871-5)\]
 
 38\. Y.B. Güzel, K. Khare, N. Harvey, K. Dsouza, D.H. Jang, J. Chen, C.Z. Lam and **M.A. Muñoz** (2025) [*instancespace: a Python Package for Insightful Algorithm Testing through Instance Space Analysis*](https://doi.org/10.1016/j.softx.2025.102246). *SoftwareX*, 31:102246 **(IF 2024: 2.4)** \[[bib](https://doi.org/10.1016/j.softx.2025.102246)\]
 
@@ -77,7 +77,7 @@ B1. E. Caicedo, J.A. López and **M.A. Muñoz** (2010) *Control Inteligente \| I
 
 15\. **M.A. Muñoz** and M. Kirley (2021) [*Sampling effects on algorithm selection for continuous black-box optimization*](https://doi.org/10.3390/a14010019). *Algorithms*, 14(1)19 \[[bib](https://doi.org/10.3390/a14010019)\]
 
-14\. **M.A. Muñoz** and K. Smith-Miles (2020) [*Generating new space-filling test instances for continuous black-box optimization*](https://doi.org/10.1162/evco_a_00250). *Evolutionary Computation*, 28(3)379–404 **(IF 2024: 3.4)** \[[bib](https://doi.org/10.1162/evco_a_00250)\]
+14\. **M.A. Muñoz** and K. Smith-Miles (2020) [*Generating new space-filling test instances for continuous black-box optimization*](https://doi.org/10.1162/evco_a_00262). *Evolutionary Computation*, 28(3)379–404 **(IF 2024: 3.4)** \[[bib](https://doi.org/10.1162/evco_a_00262)\]
 
 13\. S. Kandanaarachchi, **M.A. Muñoz**, R.J. Hyndman and K. Smith-Miles (2020) [*On normalization and algorithm selection for unsupervised outlier detection*](https://doi.org/10.1007/s10618-019-00661-z). *Data Mining and Knowledge Discovery*, 34:309–354 **(IF 2024: 4.3)** \[[bib](https://doi.org/10.1007/s10618-019-00661-z)\]
 
@@ -115,15 +115,15 @@ B1. E. Caicedo, J.A. López and **M.A. Muñoz** (2010) *Control Inteligente \| I
 
 26\. D. Notice, H. Soleimani, N.G. Pavlidis, A. Kheiri and **M.A. Muñoz** (2025) [*Instance Space Analysis of the Capacitated Vehicle Routing Problem with Mixture Discriminant Analysis*](https://doi.org/10.1145/3712255.3726617). *GECCO '25*, pp. 1172–1180 **(CORE 2026: A)** \[[bib](https://doi.org/10.1145/3712255.3726617)\]
 
-25\. A. Nikolikj, **M.A. Muñoz**, E. Tuba and T. Eftimov (2025) [*Tracing the Interactions of Modular CMA-ES Configurations Across Problem Landscapes*](https://doi.org/10.1109/CEC.2025). *IEEE CEC 2025* **(CORE 2023: B)** \[[bib](https://doi.org/10.1109/CEC.2025)\]
+25\. A. Nikolikj, **M.A. Muñoz**, E. Tuba and T. Eftimov (2025) *Tracing the Interactions of Modular CMA-ES Configurations Across Problem Landscapes*. *IEEE CEC 2025* **(CORE 2023: B)**
 
-24\. H. Alsouly, M. Kirley and **M.A. Muñoz** (2024) [*Online Per-Instance Algorithm Selection for Constrained Multi-Objective Optimization Problems*](https://doi.org/10.1145/3638530.3654396). *GECCO '24 Companion*, pp. 559–562 **(CORE 2026: A)** \[[bib](https://doi.org/10.1145/3638530.3654396)\]
+24\. H. Alsouly, M. Kirley and **M.A. Muñoz** (2024) [*Online Per-Instance Algorithm Selection for Constrained Multi-Objective Optimization Problems*](https://doi.org/10.1145/3638530.3654111). *GECCO '24 Companion*, pp. 559–562 **(CORE 2026: A)** \[[bib](https://doi.org/10.1145/3638530.3654111)\]
 
-23\. A. Rasulo, K. Smith-Miles, **M.A. Muñoz**, J. Handl and M. López-Ibañez (2024) [*Extending Instance Space Analysis to Algorithm Configuration Spaces*](https://doi.org/10.1145/3638530.3654169). *GECCO '24 Companion*, pp. 147–150 **(CORE 2026: A)** \[[bib](https://doi.org/10.1145/3638530.3654169)\]
+23\. A. Rasulo, K. Smith-Miles, **M.A. Muñoz**, J. Handl and M. López-Ibañez (2024) [*Extending Instance Space Analysis to Algorithm Configuration Spaces*](https://doi.org/10.1145/3638530.3654264). *GECCO '24 Companion*, pp. 147–150 **(CORE 2026: A)** \[[bib](https://doi.org/10.1145/3638530.3654264)\]
 
-22\. B. Moradi, M. Kirley and **M.A. Muñoz** (2024) [*Sensitivity Analysis of Surrogate-assisted Bilevel Optimisation*](https://doi.org/10.1145/3638530.3654411). *GECCO '24 Companion*, pp. 411–414 **(CORE 2026: A)** \[[bib](https://doi.org/10.1145/3638530.3654411)\]
+22\. B. Moradi, M. Kirley and **M.A. Muñoz** (2024) [*Sensitivity Analysis of Surrogate-assisted Bilevel Optimisation*](https://doi.org/10.1145/3638530.3654228). *GECCO '24 Companion*, pp. 411–414 **(CORE 2026: A)** \[[bib](https://doi.org/10.1145/3638530.3654228)\]
 
-21\. M. Gallagher and **M.A. Muñoz** (2024) [*Towards an Improved Understanding of Features for More Interpretable Landscape Analysis*](https://doi.org/10.1145/3638530.3654160). *GECCO '24 Companion*, pp. 135–138 **(CORE 2026: A)** \[[bib](https://doi.org/10.1145/3638530.3654160)\]
+21\. M. Gallagher and **M.A. Muñoz** (2024) *Towards an Improved Understanding of Features for More Interpretable Landscape Analysis*. *GECCO '24 Companion*, pp. 135–138 **(CORE 2026: A)**
 
 20\. H. Alsouly, M. Kirley and **M.A. Muñoz** (2023) [*Dynamic Landscape Analysis for Constrained Multiobjective Optimization Problems*](https://doi.org/10.1007/978-981-99-8391-9_34). *AI '23*, pp. 429–441 \[[bib](https://doi.org/10.1007/978-981-99-8391-9_34)\]
 
@@ -131,9 +131,9 @@ B1. E. Caicedo, J.A. López and **M.A. Muñoz** (2010) *Control Inteligente \| I
 
 18\. **M.A. Muñoz** (2022) [*Examining Algorithm Behavior using Recurrence Quantification and Landscape Analyses*](https://doi.org/10.1145/3520304.3534013). *GECCO '22 Companion*, pp. 1658–1665 **(CORE 2026: A)** \[[bib](https://doi.org/10.1145/3520304.3534013)\]
 
-17\. **M.A. Muñoz**, H. Soleimani and S. Kandanaarachchi (2022) [*Benchmarking Algorithm Portfolio Construction Methods*](https://doi.org/10.1145/3520304.3528988). *GECCO '22 Companion*, pp. 499–502 **(CORE 2026: A)** \[[bib](https://doi.org/10.1145/3520304.3528988)\]
+17\. **M.A. Muñoz**, H. Soleimani and S. Kandanaarachchi (2022) [*Benchmarking Algorithm Portfolio Construction Methods*](https://doi.org/10.1145/3520304.3528880). *GECCO '22 Companion*, pp. 499–502 **(CORE 2026: A)** \[[bib](https://doi.org/10.1145/3520304.3528880)\]
 
-16\. D.X. Ramos, J.A. Jiménez Toledo, A. Muñoz del Castillo, L.C. Acosta Huertas, E. Herrera and **M.A. Muñoz** (2020) *Computational Thinking for Teacher Training: A Systematic Review of Literature*. *LACCEI 2020* **(In Spanish)** \[[doi](https://doi.org/10.18687/LACCEI2020.1.1.438)\]
+16\. D.X. Ramos, J.A. Jiménez Toledo, A. Muñoz del Castillo, L.C. Acosta Huertas, E. Herrera and **M.A. Muñoz** (2020) [*Computational Thinking for Teacher Training: A Systematic Review of Literature*](https://doi.org/10.18687/LACCEI2020.1.1.438). *LACCEI 2020* **(In Spanish)** \[[bib](https://doi.org/10.18687/LACCEI2020.1.1.438)\]
 
 15\. E. Yap, **M.A. Muñoz**, K. Smith-Miles and A. Liefooghe (2020) [*Instance Space Analysis of Combinatorial Multi-objective Optimization Problems*](https://doi.org/10.1109/CEC48606.2020.9185716). *IEEE CEC 2020* **(CORE 2023: B)** \[[bib](https://doi.org/10.1109/CEC48606.2020.9185716)\]
 
