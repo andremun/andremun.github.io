@@ -1,0 +1,38 @@
+/* =============================================================================
+   CONTRAST SKIN
+   Dark background with high-contrast white text and vivid accents.
+   Drop this file into _sass/ and update assets/css/main.scss
+   (see instructions at bottom of this file).
+   ========================================================================== */
+
+/* Background & text */
+$background-color           : #000 !default;
+$body-color                 : #000 !default;
+$text-color                 : #fff !default;
+$border-color               : #444 !default;
+
+/* Code blocks */
+$code-background-color      : #1a1a1a !default;
+$code-background-color-dark : #111 !default;
+
+/* Primary accent – a clean blue that reads well on black */
+$primary-color              : #52adc8 !default;
+
+/* Links */
+$link-color                 : #52adc8 !default;
+$link-color-hover           : mix(#fff, $link-color, 25%) !default;
+$link-color-visited         : mix(#fff, $link-color, 10%) !default;
+
+/* Masthead / nav bar */
+$masthead-link-color        : $text-color !default;
+$masthead-link-color-hover  : mix(#000, $text-color, 20%) !default;
+
+/* Sidebar */
+$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
+
+/* Grays (rebalanced for dark bg) */
+$gray                       : #7a8288 !default;
+$dark-gray                  : mix(#000, $gray, 40%) !default;
+$darker-gray                : mix(#000, $gray, 60%) !default;
+$light-gray                 : mix(#fff, $gray, 50%) !default;
+$lighter-gray               : mix(#fff, $gray, 90%) !default;
