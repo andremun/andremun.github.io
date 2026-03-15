@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=qIw0wzkAAAAJ&hl=en">my Google Scholar profile</a> and <a href="https://www.scopus.com/authid/detail.uri?authorId=55608459400">Scopus</a>.
+You can also find my articles on <a href="https://scholar.google.com/citations?user=qIw0wzkAAAAJ&hl=en">my Google Scholar profile</a> and <a href="https://www.scopus.com/authid/detail.uri?authorId=55499624900">Scopus</a>.
 
 Impact factors listed are from the **2024 Journal Citation Reports (JCR, Clarivate, released June 2025)** unless otherwise noted. Conference rankings are from **ICORE 2026** unless otherwise noted.
 
