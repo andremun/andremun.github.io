@@ -113,9 +113,9 @@ To download a BibTeX entry, click the **[bib]** link next to each paper (links t
 
 28\. B. Moradi, **M.A. Muñoz** and M. Kirley (2026) *Generalisation of Automated Algorithm Selection in Black-Box Optimisation: The Role of Algorithm Portfolio and Learning Model*. *EvoAPPS 2026* **(CORE 2023: B)** (accepted)
 
-27\. K. Malan and **M.A. Muñoz** (2025) [*Why We Should be Benchmarking Evolutionary Algorithms on Neural Network Training Tasks*](https://doi.org/10.1145/3712255.3726455). *GECCO '25*, pp. 30–38 **(CORE 2026: A, Best Paper Nomination)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3712255.3726455)\]
+27\. K. Malan and **M.A. Muñoz** (2025) [*Why We Should be Benchmarking Evolutionary Algorithms on Neural Network Training Tasks*](https://doi.org/10.1145/3712256.3726318). *GECCO '25*, pp. 30–38 **(CORE 2026: A, Best Paper Nomination)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3712256.3726318)\]
 
-26\. D. Notice, H. Soleimani, N.G. Pavlidis, A. Kheiri and **M.A. Muñoz** (2025) [*Instance Space Analysis of the Capacitated Vehicle Routing Problem with Mixture Discriminant Analysis*](https://doi.org/10.1145/3712255.3726617). *GECCO '25*, pp. 1172–1180 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3712255.3726617)\]
+26\. D. Notice, H. Soleimani, N.G. Pavlidis, A. Kheiri and **M.A. Muñoz** (2025) [*Instance Space Analysis of the Capacitated Vehicle Routing Problem with Mixture Discriminant Analysis*](https://doi.org/10.1145/3712256.3726405). *GECCO '25*, pp. 1172–1180 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3712256.3726405)\]
 
 25\. A. Nikolikj, **M.A. Muñoz**, E. Tuba and T. Eftimov (2025) [*Tracing the Interactions of Modular CMA-ES Configurations Across Problem Landscapes*](https://doi.org/10.1109/CEC65147.2025.11042974). *IEEE CEC 2025* **(CORE 2023: B)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CEC65147.2025.11042974)\]
 
@@ -123,47 +123,47 @@ To download a BibTeX entry, click the **[bib]** link next to each paper (links t
 
 23\. A. Rasulo, K. Smith-Miles, **M.A. Muñoz**, J. Handl and M. López-Ibañez (2024) [*Extending Instance Space Analysis to Algorithm Configuration Spaces*](https://doi.org/10.1145/3638530.3654264). *GECCO '24 Companion*, pp. 147–150 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3638530.3654264)\]
 
-22\. B. Moradi, M. Kirley and **M.A. Muñoz** (2024) [*Sensitivity Analysis of Surrogate-assisted Bilevel Optimisation*](https://doi.org/10.1145/3638530.3654228). *GECCO '24 Companion*, pp. 411–414 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3638530.3654228)\]
+22\. B. Moradi, M. Kirley and **M.A. Muñoz** (2024) [*Sensitivity Analysis of Surrogate-assisted Bilevel Optimisation*](https://doi.org/10.1145/3638530.365422). *GECCO '24 Companion*, pp. 411–414 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3638530.365422)\]
 
 21\. M. Gallagher and **M.A. Muñoz** (2024) [*Towards an Improved Understanding of Features for More Interpretable Landscape Analysis*](https://doi.org/10.1145/3638530.3654301). *GECCO '24 Companion*, pp. 135–138 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3638530.3654301)\]
 
-20\. H. Alsouly, M. Kirley and **M.A. Muñoz** (2023) [*Dynamic Landscape Analysis for Constrained Multiobjective Optimization Problems*](https://doi.org/10.1007/978-981-99-8391-9_34). *AI '23*, pp. 429–441 \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1007/978-981-99-8391-9_34)\]
+20\. H. Alsouly, M. Kirley and **M.A. Muñoz** (2023) [*Dynamic Landscape Analysis for Constrained Multiobjective Optimization Problems*](https://doi.org/10.1007/978-981-99-8388-9_35). *AI '23*, pp. 429–441 \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1007/978-981-99-8388-9_35)\]
 
-19\. A. Nikolikj, S. Dzeroski, **M.A. Muñoz**, C. Doerr, P. Korosec and T. Eftimov (2023) [*Algorithm Instance Footprint: Separating Easily Solvable and Challenging Problem Instances*](https://doi.org/10.1145/3583131.3590369). *GECCO '23*, pp. 529–537 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3583131.3590369)\]
+19\. A. Nikolikj, S. Dzeroski, **M.A. Muñoz**, C. Doerr, P. Korosec and T. Eftimov (2023) [*Algorithm Instance Footprint: Separating Easily Solvable and Challenging Problem Instances*](https://doi.org/10.1145/3583131.3590424). *GECCO '23*, pp. 529–537 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3583131.3590424)\]
 
-18\. **M.A. Muñoz** (2022) [*Examining Algorithm Behavior using Recurrence Quantification and Landscape Analyses*](https://doi.org/10.1145/3520304.3534013). *GECCO '22 Companion*, pp. 1658–1665 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3520304.3534013)\]
+18\. **M.A. Muñoz** (2022) [*Examining Algorithm Behavior using Recurrence Quantification and Landscape Analyses*](https://doi.org/10.1145/3520304.3534029). *GECCO '22 Companion*, pp. 1658–1665 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3520304.3534029)\]
 
 17\. **M.A. Muñoz**, H. Soleimani and S. Kandanaarachchi (2022) [*Benchmarking Algorithm Portfolio Construction Methods*](https://doi.org/10.1145/3520304.3528880). *GECCO '22 Companion*, pp. 499–502 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3520304.3528880)\]
 
-16\. D.X. Ramos, J.A. Jiménez Toledo, A. Muñoz del Castillo, L.C. Acosta Huertas, E. Herrera and **M.A. Muñoz** (2020) [*Computational Thinking for Teacher Training: A Systematic Review of Literature*](https://doi.org/10.18687/LACCEI2020.1.1.438). *LACCEI 2020* **(In Spanish)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.18687/LACCEI2020.1.1.438)\]
+16\. D.X. Ramos, J.A. Jiménez Toledo, A. Muñoz del Castillo, L.C. Acosta Huertas, E. Herrera and **M.A. Muñoz** (2020) [*Computational Thinking for Teacher Training: A Systematic Review of Literature*](https://doi.org/10.18687/LACCEI2020.1.1.135). *LACCEI 2020* **(In Spanish)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.18687/LACCEI2020.1.1.135)\]
 
-15\. E. Yap, **M.A. Muñoz**, K. Smith-Miles and A. Liefooghe (2020) [*Instance Space Analysis of Combinatorial Multi-objective Optimization Problems*](https://doi.org/10.1109/CEC48606.2020.9185716). *IEEE CEC 2020* **(CORE 2023: B)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CEC48606.2020.9185716)\]
+15\. E. Yap, **M.A. Muñoz**, K. Smith-Miles and A. Liefooghe (2020) [*Instance Space Analysis of Combinatorial Multi-objective Optimization Problems*](https://doi.org/10.1109/CEC48606.2020.9185664). *IEEE CEC 2020* **(CORE 2023: B)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CEC48606.2020.9185664)\]
 
 14\. S. Kandanaarachchi, **M.A. Muñoz** and K. Smith-Miles (2019) [*Instance space analysis for unsupervised outlier detection*](http://ceur-ws.org/Vol-2436/article_5.pdf). *EDML @ SDM 2019*, pp. 32–41
 
 13\. A. Muñoz del Castillo, **M.A. Muñoz**, L.C. Acosta Huertas, E. Herrera, J.A. Jiménez Toledo and D.X. Ramos (2019) [*Developing a teacher training curriculum including Computational Thinking skills*](https://doi.org/10.1109/LACLO49268.2019.00012). *LACLO 2019*, pp. 8–11 \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/LACLO49268.2019.00012)\]
 
-12\. **M.A. Muñoz** and K.A. Smith-Miles (2017) [*Generating custom classification datasets by targeting the instance space*](https://doi.org/10.1145/3067695.3082513). *GECCO '17 Companion*, pp. 1582–1588 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3067695.3082513)\]
+12\. **M.A. Muñoz** and K.A. Smith-Miles (2017) [*Generating custom classification datasets by targeting the instance space*](https://doi.org/10.1145/3067695.3082532). *GECCO '17 Companion*, pp. 1582–1588 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3067695.3082532)\]
 
-11\. **M.A. Muñoz** and K.A. Smith-Miles (2017) [*Non-parametric model of the space of continuous black-box optimization problems*](https://doi.org/10.1145/3067695.3075968). *GECCO '17 Companion*, pp. 175–176 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3067695.3075968)\]
+11\. **M.A. Muñoz** and K.A. Smith-Miles (2017) [*Non-parametric model of the space of continuous black-box optimization problems*](https://doi.org/10.1145/3067695.3075971). *GECCO '17 Companion*, pp. 175–176 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1145/3067695.3075971)\]
 
-10\. **M.A. Muñoz** and M. Kirley (2016) [*ICARUS: Identification of Complementary algoRithms by Uncovered Sets*](https://doi.org/10.1109/CEC.2016.7744117). *IEEE CEC 2016*, pp. 2427–2432 **(CORE 2023: B)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CEC.2016.7744117)\]
+10\. **M.A. Muñoz** and M. Kirley (2016) [*ICARUS: Identification of Complementary algoRithms by Uncovered Sets*](https://doi.org/10.1109/CEC.2016.7744089). *IEEE CEC 2016*, pp. 2427–2432 **(CORE 2023: B)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CEC.2016.7744089)\]
 
-9\. **M.A. Muñoz**, M. Kirley and S.K. Halgamuge (2015) [*Effects of function translation and dimensionality reduction on landscape analysis*](https://doi.org/10.1109/CEC.2015.7257113). *IEEE CEC 2015*, pp. 1336–1342 **(CORE 2023: B)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CEC.2015.7257113)\]
+9\. **M.A. Muñoz**, M. Kirley and S.K. Halgamuge (2015) [*Effects of function translation and dimensionality reduction on landscape analysis*](https://doi.org/10.1109/CEC.2015.7257043). *IEEE CEC 2015*, pp. 1336–1342 **(CORE 2023: B)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CEC.2015.7257043)\]
 
-8\. Y. Sun, M. Kirley, S.K. Halgamuge and **M.A. Muñoz** (2014) [*On the selection of fitness landscape analysis metrics for continuous optimization problems*](https://doi.org/10.1109/ICIAFS.2014.7069551). *ICIAFS 2014* \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/ICIAFS.2014.7069551)\]
+8\. Y. Sun, M. Kirley, S.K. Halgamuge and **M.A. Muñoz** (2014) [*On the selection of fitness landscape analysis metrics for continuous optimization problems*](https://doi.org/10.1109/ICIAFS.2014.7069635). *ICIAFS 2014* \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/ICIAFS.2014.7069635)\]
 
 7\. **M.A. Muñoz**, M. Kirley and S.K. Halgamuge (2012) [*A Meta-Learning prediction model of algorithm performance for continuous optimization problems*](https://doi.org/10.1007/978-3-642-32937-1_23). *PPSN XII*, LNCS v. 7491, pp. 226–235 **(CORE 2026: A)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1007/978-3-642-32937-1_23)\]
 
-6\. **M.A. Muñoz**, M. Kirley and S.K. Halgamuge (2012) [*Landscape characterization of numerical optimization problems using biased scattered data*](https://doi.org/10.1109/CEC.2012.6252933). *IEEE CEC 2012*, pp. 2162–2169 **(CORE 2023: B)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CEC.2012.6252933)\]
+6\. **M.A. Muñoz**, M. Kirley and S.K. Halgamuge (2012) [*Landscape characterization of numerical optimization problems using biased scattered data*](https://doi.org/10.1109/CEC.2012.6256490). *IEEE CEC 2012*, pp. 2162–2169 **(CORE 2023: B)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CEC.2012.6256490)\]
 
-5\. **M.A. Muñoz**, S.K. Halgamuge, W. Alfonso and E.F. Caicedo (2010) [*Simplifying the Bacteria Foraging Algorithm*](https://doi.org/10.1109/CEC.2010.5586496). *IEEE CEC 2010*, pp. 4095–4101 **(CORE 2023: B)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CEC.2010.5586496)\]
+5\. **M.A. Muñoz**, S.K. Halgamuge, W. Alfonso and E.F. Caicedo (2010) [*Simplifying the Bacteria Foraging Algorithm*](https://doi.org/10.1109/CEC.2010.5586025). *IEEE CEC 2010*, pp. 4095–4101 **(CORE 2023: B)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CEC.2010.5586025)\]
 
-4\. M.A. Muñoz, J.A. López and E.F. Caicedo (2008) [*Self-Adaptive Bacteria Swarm for Optimization*](https://doi.org/10.1109/CERMA.2008.74). *CERMA '08*, pp. 45–49 \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CERMA.2008.74)\]
+4\. M.A. Muñoz, J.A. López and E.F. Caicedo (2008) [*Self-Adaptive Bacteria Swarm for Optimization*](https://doi.org/10.1109/CERMA.2008.97). *CERMA '08*, pp. 45–49 \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CERMA.2008.97)\]
 
-3\. M.A. Muñoz, J.A. López and E.F. Caicedo (2007) [*Bacteria Swarm Foraging Optimization for Dynamical Resource Allocation*](https://doi.org/10.1007/978-3-540-72434-6_43). *IFSA 2007*, Advances in Soft Computing, v. 41, pp. 427–435 \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1007/978-3-540-72434-6_43)\]
+3\. M.A. Muñoz, J.A. López and E.F. Caicedo (2007) [*Bacteria Swarm Foraging Optimization for Dynamical Resource Allocation*](https://doi.org/10.1007/978-3-540-72432-2_43). *IFSA 2007*, Advances in Soft Computing, v. 41, pp. 427–435 \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1007/978-3-540-72432-2_43)\]
 
-2\. M.A. Muñoz, J.A. López and E.F. Caicedo (2006) [*Ant Colony Optimization for Dynamical Resource Allocation in a Multizone Temperature Experimentation Platform*](https://doi.org/10.1109/CERMA.2006.85). *CERMA '06*, pp. 137–142 \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CERMA.2006.85)\]
+2\. M.A. Muñoz, J.A. López and E.F. Caicedo (2006) [*Ant Colony Optimization for Dynamical Resource Allocation in a Multizone Temperature Experimentation Platform*](https://doi.org/10.1109/CERMA.2006.18). *CERMA '06*, pp. 137–142 \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/CERMA.2006.18)\]
 
 1\. M.A. Muñoz, J.A. López and E.F. Caicedo (2005) [*Implementation of a Distributed Control Experimentation Platform*](https://doi.org/10.1109/ICIECA.2005.1644379). *ICIECA 2005* \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1109/ICIECA.2005.1644379)\]
 
