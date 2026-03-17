@@ -23,7 +23,7 @@ To download a BibTeX entry, click the **[bib]** link next to each paper (links t
 
 # Journal articles
 
-42\. C. Simpson, **M.A. Muñoz** and R.J.G.B. Campello (2026) *Instance Space of Clustering Validation Measures*. Accepted in *Data Mining and Knowledge Discovery* **(IF 2024: 4.3)**
+42\. C. Simpson, **M.A. Muñoz** and R.J.G.B. Campello (2026) [*Instance Space of Clustering Validation Measures*](https://doi.org/10.1007/s10618-026-01195-x). *Data Mining and Knowledge Discovery* 40:25 **(IF 2024: 4.3)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1007/s10618-026-01195-x)\]
 
 41\. H. Avila-Choconta, L. Ruiz-Acosta, D.A. Camargo-Mayorga and **M.A. Muñoz** (2026) [*Modeling sustainability performance in manufacturing companies*](https://doi.org/10.1002/csr.70479). *Corporate Social Responsibility and Environmental Management* **(IF 2024: 8.3)** \[[bib](https://citation.doi.org/format?style=bibtex&lang=en-GB&doi=10.1002/csr.70479)\]
 
