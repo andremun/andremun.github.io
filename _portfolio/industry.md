@@ -20,7 +20,7 @@ Development of **multi-fidelity surrogate modelling methodologies** to improve t
 - N. Andrés-Thio, **M.A. Muñoz** and K. Smith-Miles (2024) *Characterising harmful data sources when constructing multi-fidelity surrogate models*. Artificial Intelligence, 336:104207
 - N. Andrés-Thio, **M.A. Muñoz** and K. Smith-Miles (2022) *Bi-fidelity Surrogate Modelling: Showcasing the need for new test instances*. INFORMS Journal on Computing, 34(6)3007–3022 **(Featured Article)**
 
-## Future Fibre Technologies Ltd. (2016–2020)
+## Future Fibre Technologies Ltd. (2016–2019)
 
 Development of **anomaly detection methods for streaming multi-dimensional data** applied to fibre optic sensing systems used for perimeter security and intrusion detection.
 

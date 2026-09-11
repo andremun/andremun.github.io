@@ -29,7 +29,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$header-font-family         : $georgia;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -47,24 +47,24 @@ $type-size-8                : 0.625em;  // ~10px
    Colors — contrast (dark) skin
    ========================================================================== */
 
-$gray                       : #7a8288;
+$gray                       : #8a9099;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #000;
-$background-color           : #000;
-$code-background-color      : #1a1a1a;
-$code-background-color-dark : #111;
-$text-color                 : #fff;
-$border-color               : #444;
+$body-color                 : #14171c;
+$background-color           : #14171c;
+$code-background-color      : #1d2128;
+$code-background-color-dark : #14171c;
+$text-color                 : #eef0f2;
+$border-color               : #343a42;
 
-$primary-color              : #52adc8;
+$primary-color              : #c9a44c;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : #c9a44c;
 
 /* brands */
 $behance-color              : #1769FF;
